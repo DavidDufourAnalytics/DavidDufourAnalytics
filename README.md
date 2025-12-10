@@ -34,6 +34,16 @@ Ma force : combiner
 - Diagnostic & recommandations business
 - Storytelling orienté décision
 
+### 📊 **Aperçu visuel de mes compétences**
+
+| Compétence        | Niveau |
+|------------------|--------|
+| 🐍 Jupyter Notebook  | ⭐⭐⭐⭐⭐ 90% |
+| 🛢️ SQL               | ⭐⭐⭐⭐☆ 80% |
+| 📊 Power BI          | ⭐⭐⭐⭐⭐ 95% |
+| 🤖 Machine Learning  | ⭐⭐⭐☆☆ 70% |
+| 📈 Statistiques      | ⭐⭐⭐⭐☆ 85% |
+
 ---
 
 ## 🚀 Projets réalisés (exemples)
