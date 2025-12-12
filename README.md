@@ -6,7 +6,7 @@ Python • SQL • Power BI • KNIME • Analyse & Modélisation
 
 ---
 
-## ✨ À propos de moi
+## À propos de moi ##
 
 Je suis **David DUFOUR**, Data Analyst en reconversion après plus de **23 années d’expérience dans la banque**.  
 Passionné par la donnée, je transforme l’information brute en **indicateurs fiables**, analyses structurées et outils d’aide à la décision.
@@ -18,23 +18,23 @@ Ma force : combiner
 
 ---
 
-## 🧰 Compétences principales
+## Compétences principales ##
 
-### 🔧 **Techniques**
+### **Techniques**
 - Python (Pandas, visualisation, analyse)
 - SQL (requêtes avancées, optimisation)
 - Power BI (modélisation, DAX, dashboards)
 - KNIME (workflows, automatisation)
 - Data cleaning, quality check, préparation et modélisation
 
-### 📊 **Analyse & Méthodologie**
+### **Analyse & Méthodologie**
 - KPIs & pilotage
 - Analyse exploratoire (EDA)
 - Segmentation, ACP, clustering
 - Diagnostic & recommandations business
 - Storytelling orienté décision
 
-### 📊 **Aperçu visuel de mes compétences**
+### **Aperçu visuel de mes compétences**
 
 | Compétence        | Niveau |
 |------------------|--------|
@@ -46,7 +46,7 @@ Ma force : combiner
 
 ---
 
-## 🚀 Projets réalisés (exemples)
+## Projets réalisés (exemples) ##
 
 - **Analyse e-commerce** – KPIs, performance, segmentation, insights actionnables  
 - **Base SQL Assurance** – Modélisation, requêtes avancées, création d’indicateurs  
@@ -55,12 +55,12 @@ Ma force : combiner
 - **Workflows KNIME** – Automatisation, préparation de données, reporting  
 - **Dashboards Power BI** – Pilotage d’activité & suivi opérationnel
 
-➡️ **Portfolio complet :**  
+**Portfolio complet :**  
 https://DavidDufourAnalytics.github.io/Portfolio/
 
 ---
 
-## 🎯 Ce que je recherche
+## Ce que je recherche ##
 
 Des opportunités pour :  
 ✔ analyser et valoriser les données métier  
