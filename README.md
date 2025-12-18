@@ -56,8 +56,7 @@ Ma force : combiner
 - **Dashboards Power BI** – Pilotage d’activité & suivi opérationnel
 
 **Portfolio complet :**  
-https://DavidDufourAnalytics.github.io/Portfolio/
-
+https://daviddufourdata.github.io/Portfolio/
 ---
 
 ## Ce que je recherche ##
