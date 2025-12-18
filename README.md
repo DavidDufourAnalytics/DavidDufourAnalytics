@@ -1,6 +1,6 @@
 <h1 align="center">David DUFOUR — Data Analyst</h1>
 <h3 align="center">
-Python • SQL • Power BI • KNIME • Analyse & Modélisation 
+**Python • SQL • Power BI • KNIME • Analyse & Modélisation**
   
 23 ans d’expérience secteur bancaire • Reconversion Data
 </h3>
