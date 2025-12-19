@@ -76,6 +76,6 @@ Des opportunités pour :
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="18" style="vertical-align:middle;"/> LinkedIn : [David DUFOUR](https://www.linkedin.com/in/david-d-abb31b152/)
 
-📧 daviddufourbnp@gmail.com
+Contact professionnel : 📧 david.dufour@bnpparibas.com
 
-
+Contact personnel : 📧 daviddufourbnp@gmail.com
